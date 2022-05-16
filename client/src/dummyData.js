@@ -1,52 +1,52 @@
 export const Users = [
     {
         id: 1,
-        profilePicture: "assets/person/1.jpeg",
+        profilePicture: "person/1.jpeg",
         username: "Andre Verlice",
     },
     {
         id: 2,
-        profilePicture: "assets/person/2.jpeg",
+        profilePicture: "person/2.jpeg",
         username: "Claude Huxley",
     },
     {
         id: 3,
-        profilePicture: "assets/person/3.jpeg",
+        profilePicture: "person/3.jpeg",
         username: "Ethan Ford",
     },
     {
         id: 4,
-        profilePicture: "assets/person/4.jpeg",
+        profilePicture: "person/4.jpeg",
         username: "John Doe",
     },
     {
         id: 5,
-        profilePicture: "assets/person/5.jpeg",
+        profilePicture: "person/5.jpeg",
         username: "Keiran Stoll",
     },
     {
         id: 6,
-        profilePicture: "assets/person/6.jpeg",
+        profilePicture: "person/6.jpeg",
         username: "Robyn Ledger",
     },
     {
         id: 7,
-        profilePicture: "assets/person/7.jpeg",
+        profilePicture: "person/7.jpeg",
         username: "Sebastien Hayes",
     },
     {
         id: 8,
-        profilePicture: "assets/person/8.jpeg",
+        profilePicture: "person/8.jpeg",
         username: "Robert Carter",
     },
     {
         id: 9,
-        profilePicture: "assets/person/9.jpeg",
+        profilePicture: "person/9.jpeg",
         username: "Elfriede Smith",
     },
     {
         id: 10,
-        profilePicture: "assets/person/10.jpeg",
+        profilePicture: "person/10.jpeg",
         username: "Janell Shrum",
     },
 ];
@@ -55,7 +55,7 @@ export const Posts = [
     {
         id: 1,
         desc: "Love Fo All, Hatred For None.",
-        photo: "assets/post/1.jpeg",
+        photo: "post/1.jpeg",
         date: "5 mins ago",
         userId: 1,
         like: 32,
@@ -64,7 +64,7 @@ export const Posts = [
     {
         id: 2,
         desc: "Absence makes the heart grow fonder.",
-        photo: "assets/post/2.jpeg",
+        photo: "post/2.jpeg",
         date: "30 mins ago",
         userId: 2,
         like: 12,
@@ -73,7 +73,7 @@ export const Posts = [
     {
         id: 3,
         desc: "Actions speak louder than words.",
-        photo: "assets/post/3.jpeg",
+        photo: "post/3.jpeg",
         date: "1 hour ago",
         userId: 3,
         like: 9,
@@ -82,7 +82,7 @@ export const Posts = [
     {
         id: 4,
         desc: "A journey of a thousand miles begins with a single step.",
-        photo: "assets/post/4.jpeg",
+        photo: "post/4.jpeg",
         date: "10 hours ago",
         userId: 4,
         like: 5,
@@ -91,7 +91,7 @@ export const Posts = [
     {
         id: 5,
         desc: "All good things must come to an end.",
-        photo: "assets/post/5.jpeg",
+        photo: "post/5.jpeg",
         date: "1 day ago",
         userId: 5,
         like: 29,
@@ -100,10 +100,10 @@ export const Posts = [
     {
         id: 6,
         desc: "A picture is worth a thousand words.",
-        photo: "assets/post/6.jpeg",
+        photo: "post/6.jpeg",
         date: "2 days ago",
         userId: 6,
         like: 30,
         comment: 6,
     },
-]
+];
